@@ -1,4 +1,4 @@
-var countries = 
+
 [
 	{
 		"name": "Afghanistan",
@@ -14854,8 +14854,3 @@ var countries =
 		"cioc": "ZIM"
 	}
 ]
-
-module.exports = countries;
-
-
-
